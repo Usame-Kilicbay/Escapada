@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: cedbba99a86e31043a0ee9e3c1bbd6b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4788914401592004815
+    second: Owler Melee Attack_0
+  - first:
+      213: 9215262630317883129
+    second: Owler Melee Attack_1
+  - first:
+      213: 6367589934440041049
+    second: Owler Melee Attack_2
+  - first:
+      213: 9177186479204755728
+    second: Owler Melee Attack_3
+  - first:
+      213: 7459304387630421736
+    second: Owler Melee Attack_4
+  - first:
+      213: 4820644717346729389
+    second: Owler Melee Attack_5
+  - first:
+      213: 2222230582293095036
+    second: Owler Melee Attack_6
+  - first:
+      213: 3240109542376800691
+    second: Owler Melee Attack_7
+  - first:
+      213: -2920103661427282944
+    second: Owler Melee Attack_8
+  - first:
+      213: -331827665973080815
+    second: Owler Melee Attack_9
+  - first:
+      213: 7697795628798413135
+    second: Owler Melee Attack_10
+  - first:
+      213: -5158194998942617389
+    second: Owler Melee Attack_11
+  - first:
+      213: -4746578295491766696
+    second: Owler Melee Attack_12
+  - first:
+      213: 5747767203952565016
+    second: Owler Melee Attack_13
+  - first:
+      213: -9131948617274652690
+    second: Owler Melee Attack_14
+  - first:
+      213: 7751742347130941604
+    second: Owler Melee Attack_15
+  - first:
+      213: 2040614035947073112
+    second: Owler Melee Attack_16
+  - first:
+      213: -2797964873669056214
+    second: Owler Melee Attack_17
+  - first:
+      213: -8313875470025623911
+    second: Owler Melee Attack_18
+  - first:
+      213: 356044448040397933
+    second: Owler Melee Attack_19
+  - first:
+      213: -3926669234248602516
+    second: Owler Melee Attack_20
+  - first:
+      213: -4603650713310361783
+    second: Owler Melee Attack_21
+  - first:
+      213: 623624639243984407
+    second: Owler Melee Attack_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Owler Melee Attack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2b5979bb5a8db0800000000000000
+      internalID: -4788914401592004815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe7708a98033ef70800000000000000
+      internalID: 9215262630317883129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac6a5fe493e5850800000000000000
+      internalID: 6367589934440041049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196482ea7aeb5f70800000000000000
+      internalID: 9177186479204755728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65938c1d5c48760800000000000000
+      internalID: 7459304387630421736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada0dd54de56e240800000000000000
+      internalID: 4820644717346729389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72e692d0f2f6de10800000000000000
+      internalID: 2222230582293095036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b109b2467e27fc20800000000000000
+      internalID: 3240109542376800691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2f49f035b977d0800000000000000
+      internalID: -2920103661427282944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0703fe7c156bf0800000000000000
+      internalID: -331827665973080815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owler Melee Attack_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f498518f65014da60800000000000000
+      internalID: 7697795628798413135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
